@@ -1,4 +1,11 @@
-h1 {
-    font-size: large;
-    background-color: bisque;
+.sms {
+    width: 20px;
+    height: 5px;
+}
+
+.building_section {
+    background-image: url("../img/background.png");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
